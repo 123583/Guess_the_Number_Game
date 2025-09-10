@@ -4,10 +4,10 @@
 
 ✨ Features include:
 
-• Emoji-enhanced visuals 🎨
+• Emoji-enhanced visuals 🎨  
 
-• Smart higher/lower hints 💡
+• Smart higher/lower hints 💡  
 
-• Cross-platform compatibility 🖥️ 
+• Cross-platform compatibility 🖥️   
 
-• Clean terminal interface ✨
+• Clean terminal interface ✨  
